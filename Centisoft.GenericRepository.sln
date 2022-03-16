@@ -5,13 +5,11 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{10AFE493-2E9E-4A08-9D7D-E3D4FA32CDAE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{7A336C21-8AA8-4FCE-944B-1A4BF1FBCD9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centisoft.API", "Centisoft.API\Centisoft.API.csproj", "{4EBA963F-2AF8-4E61-8806-89B02780F5FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centisoft.API", "Centisoft.API\Centisoft.API.csproj", "{4EBA963F-2AF8-4E61-8806-89B02780F5FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centisoft.DataAccess", "Centisoft.DataAccess\Centisoft.DataAccess.csproj", "{A888F89E-C092-4156-A8F6-B68EC309D628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centisoft.DataAccess", "Centisoft.DataAccess\Centisoft.DataAccess.csproj", "{A888F89E-C092-4156-A8F6-B68EC309D628}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centisoft.BusinessLogic", "Centisoft.BusinessLogic\Centisoft.BusinessLogic.csproj", "{26A9D3FC-9DE8-4E2C-9434-DD13605EE77D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centisoft.BusinessLogic", "Centisoft.BusinessLogic\Centisoft.BusinessLogic.csproj", "{26A9D3FC-9DE8-4E2C-9434-DD13605EE77D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
